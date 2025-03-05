@@ -32,5 +32,3 @@ Provide your contact information for questions or feedback.
 - GitHub: [amirhajif](https://github.com/amirhajif)
 
 ---
-
-Feel free to customize this template to better fit your project's needs. Add any additional sections that might be relevant, such as acknowledgments or a changelog.
